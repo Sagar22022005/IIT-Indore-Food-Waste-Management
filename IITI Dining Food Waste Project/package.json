@@ -1,0 +1,13 @@
+{
+  "name": "foodwaste-management",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "npm --prefix server run dev",
+    "start": "npm --prefix server run start",
+    "install:server": "npm --prefix server install",
+    "dev:client": "npm --prefix client run dev",
+    "install:client": "npm --prefix client install"
+  }
+}
+
